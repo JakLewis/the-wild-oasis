@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 The Wild Oasis
-Main Project for Jacquan's Udemy Course
+Main Project for Jacquan's Udemy Course, Built with React Query and Supabase
